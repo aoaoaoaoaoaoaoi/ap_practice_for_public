@@ -1,5 +1,8 @@
 # 「令和3年応用情報技術者試験」対策public用リポジトリ
 
+## 詳細
+[応用情報技術者試験(令和3年秋)の勉強の記録](https://zenn.dev/aoaoaoaoaoaoaoi/articles/e019e3de2616f7)
+
 ## 使用させていただいたもの
 
 ### 計算問題
